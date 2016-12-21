@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindboxCards", "MindboxCards\MindboxCards.csproj", "{F5C8BC8F-1470-498F-AFD2-7363C3460DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindboxCardsTests", "MindBoxCardsTests\MindBoxCardsTests.csproj", "{A191AF27-4405-4176-912D-DA13398AA4C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C8BC8F-1470-498F-AFD2-7363C3460DBD}.Debug|x86.ActiveCfg = Debug|x86
+		{F5C8BC8F-1470-498F-AFD2-7363C3460DBD}.Debug|x86.Build.0 = Debug|x86
+		{F5C8BC8F-1470-498F-AFD2-7363C3460DBD}.Release|x86.ActiveCfg = Release|x86
+		{F5C8BC8F-1470-498F-AFD2-7363C3460DBD}.Release|x86.Build.0 = Release|x86
+		{A191AF27-4405-4176-912D-DA13398AA4C4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A191AF27-4405-4176-912D-DA13398AA4C4}.Debug|x86.Build.0 = Debug|Any CPU
+		{A191AF27-4405-4176-912D-DA13398AA4C4}.Release|x86.ActiveCfg = Release|Any CPU
+		{A191AF27-4405-4176-912D-DA13398AA4C4}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
